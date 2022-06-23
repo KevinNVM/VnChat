@@ -9,7 +9,7 @@ Realtime Chatting App Built With Native PHP & jQuery
 ## Using it
 
 ```
-
+$ git clone https://github.com/KevinNVM/VnChat.git
 ```
 
 ## Known Bugs
