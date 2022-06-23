@@ -12,7 +12,9 @@ Realtime Chatting App Built With Native PHP & jQuery
 git clone https://github.com/KevinNVM/VnChat.git
 ```
 *Don't forget to import chat-app-2(1).sql to your database*
+
 *Change $db consts to your need [vnchat/utils/db.php]*
+
 *Change const base_url to your website url [vnchat/utils/const.php]*
 
 ## Known Bugs
