@@ -1,6 +1,6 @@
 # VnChat
 
-Realtime Chatting App Built With Native PHP & jQuery
+Simple Realtime Chatting App Built With Native PHP & jQuery
 
 ## Website
 
@@ -13,9 +13,9 @@ git clone https://github.com/KevinNVM/VnChat.git
 ```
 *Don't forget to import chat-app-2(1).sql to your database*
 
-*Change $db consts to your need [vnchat/utils/db.php]*
+*Change $db consts to your needs at [vnchat/utils/db.php]*
 
-*Change const base_url to your website url [vnchat/utils/const.php]*
+*Change const base_url to your website url at [vnchat/utils/const.php]*
 
 ## Known Bugs
 
@@ -23,7 +23,7 @@ git clone https://github.com/KevinNVM/VnChat.git
 Browser Compability : 
 - Custom Scrollbar Doesn't Work On Firefox
 - Glitchy Scroll on Chrome
-- Stuck on session when the account is deleted from database. Fix : clear all session from your browser and refresh page
+- Stuck on session when the account is deleted from database. Fix : clear all session from your browser and refresh the page  
 ```
 
 ## Contributing
